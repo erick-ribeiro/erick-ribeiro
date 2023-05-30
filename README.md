@@ -4,9 +4,7 @@
 
 
 [![Linkedin: erickribeiro](https://img.shields.io/badge/-erickribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-ribeiro/)](https://www.linkedin.com/in/erick-ribeiro/)
-![GitHub followers](https://img.shields.io/github/followers/erickribeiro?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://erickribeiro.me/)](https://erickribeiro.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=erickribeiro.erickribeiro)
 
 ### 📫 Want to chat?
 
