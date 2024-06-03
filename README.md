@@ -17,21 +17,21 @@ If you'd like to chat about tech, test, quality assurance, programming, or anyth
 ```javascript
 const erick = {
     pronouns: "He" | "Him",
-    languages: ["Javascript", ".NET", "Ruby", "Python", "PHP"],
+    languages: ["Javascript", "TypeScript", ".NET", "Ruby", "Python", "PHP"],
     askMeAbout: ["Software QA", "test automation", "web app testing", "mobile app testing"],
     skills: {
         testingFrameworks: ["Appium", "Cypress", "HTTParty", "testComplete"],
         testAutomation: {
-            web: ["Cypress"],
-            mobile: ["Appium"]
-            api: ["Cypress", "HTTParty", "Postman", "REST Assured"],
+            web: ["Playwright", "Cypress"],
+            mobile: ["Appium"],
+            api: ["Cypress", "HTTParty", "Postman"],
         },
-        performanceTesting: ["JMeter", "Gatling"],
-        CI_CD: ["Jenkins", "GitHub Actions", "Azure"],
-        databases: ["SQL Server", "Mongo", "MySql", "sqlite"],
+        performanceTesting: ["k6", "JMeter", "Gatling"],
+        CI_CD: ["Jenkins", "GitHub Actions", "Azure", "Bitbucket"],
+        databases: ["MySql", "MariaDB", "SQL Server", "Mongo", "sqlite"],
         misc: ["Docker🐳", "Kubernets", "Git", "JIRA", "Agile Test"]
     },
-    methodologies: ["Agile", "Scrum", "TDD", "BDD"],
+    methodologies: ["Agile", "Scrum", "Kanban",  "TDD", "BDD"],
     currentFocus: "Improving my automation skills"
 };
 ```
